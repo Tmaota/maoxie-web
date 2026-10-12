@@ -1,6 +1,6 @@
 // 码字工坊 Service Worker：deploy-web.sh 自动生成，请勿手改
-const CACHE = 'maoxie-824fc9798e29b27d'
-const ASSETS = ["./apple-touch-icon.png","./assets/index-DFHcb1tV.js","./assets/index-DsNyOuL_.js","./assets/main-BoUlRTwo.css","./assets/main-DEXEKy6k.js","./favicon.ico","./icon-192.png","./icon-512.png","./index.html","./manifest.webmanifest"]
+const CACHE = 'maoxie-582930b880a567ba'
+const ASSETS = ["./apple-touch-icon.png","./assets/index-DFHcb1tV.js","./assets/index-W-PCHLZ2.js","./assets/main-BoUlRTwo.css","./assets/main-oOlbmkzS.js","./favicon.ico","./icon-192.png","./icon-512.png","./index.html","./manifest.webmanifest"]
 
 self.addEventListener('install', (e) => {
   e.waitUntil(
